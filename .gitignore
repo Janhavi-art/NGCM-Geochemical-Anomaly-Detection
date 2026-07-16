@@ -1,3 +1,6 @@
+# Virtual Environment
+.venv/
+
 # Jupyter
 .ipynb_checkpoints/
 
