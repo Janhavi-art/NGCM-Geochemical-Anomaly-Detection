@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ignore the entire extracted dataset folder
+stream_sediments_gcs_ngdr_*
+
+# Ignore Word document
+*.docx
