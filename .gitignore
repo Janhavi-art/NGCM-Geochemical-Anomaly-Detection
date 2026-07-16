@@ -1,5 +1,6 @@
 # Virtual Environment
 .venv/
+env/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -13,3 +14,8 @@ stream_sediments_gcs_ngdr_*
 
 # Ignore Word document
 *.docx
+
+# Ignore raw datasets and large models
+data/raw/
+*.csv
+*.xlsx
